@@ -1,4 +1,6 @@
 📊 Census Data ETL & Analysis
+
+
 This project focuses on Extracting, Transforming, and Loading (ETL) Census data for insightful analysis. The dataset is processed using SQL, and key transformations are performed to clean, structure, and analyze the data efficiently.
 
 
